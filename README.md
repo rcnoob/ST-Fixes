@@ -1,4 +1,6 @@
-﻿# STFixes
+# Archived due to development of [stfixes-metamod](https://github.com/SharpTimer/STFixes-metamod)
+ 
+# STFixes
 
 CS#Fixes but for SharpTimer
 
